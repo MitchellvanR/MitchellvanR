@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning webapp development in Angular, with a NodeJS backend.
 - 📫 How to reach me:
   ~ mitchell.van.rijswijk@gmail.com
+  ~ https://www.linkedin.com/in/mitchell-van-rijswijk/ 
   
 - I'm currently a second year software engineering student in the Netherlands. (Programming) languages I'm familiar with include Java, Javascript, 
   Python, html, CSS, Angular, Typescript and NodeJS. I am currently learning to develop web applications using Angular and making NodeJS backends in 
