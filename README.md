@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MitchellvanR
-- 👀 I’m interested in webapp development, OOP and game design.
+- 👀 I’m interested in webapp development, OOP, software architecture and game design.
 - 🌱 I’m currently learning webapp development in Angular, with a NodeJS backend.
 - 📫 How to reach me:
   ~ mitchell.van.rijswijk@gmail.com
