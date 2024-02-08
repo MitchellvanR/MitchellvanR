@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @MitchellvanR
-- 👀 I’m interested in webapp development, Object Oriënted Programming, software architecture, clean code and design patterns.
-- 🌱 I’m currently learning Object Oriënted Java programming for desktop applications.
+- 👀 I’m interested in fullstack development, Object Oriënted Programming, Software Architecture, clean code and design patterns.
+- 🌱 I’m currently learning Object Oriënted C# .NET programming with a focus on server side code.
 - 📫 How to reach me:
   ~ mitchell.van.rijswijk@gmail.com
   ~ https://www.linkedin.com/in/mitchell-van-rijswijk/ ipt, 
-  Python, HTML, CSS, SQL, Angular, Typescript and NodeJS. I am currently learning to develop desktop applications using Java and JavaFX. 
-
-<!---
-MitchellvanR/MitchellvanR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Languages and frameworks I'm familiar with are Java, C# .NET, Javascript, SQL, HTML, CSS Vue.js and Node.js.  
