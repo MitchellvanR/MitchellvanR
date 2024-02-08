@@ -4,4 +4,4 @@
 - 📫 How to reach me:
   ~ mitchell.van.rijswijk@gmail.com
   ~ https://www.linkedin.com/in/mitchell-van-rijswijk/ ipt, 
-  Languages and frameworks I'm familiar with are Java, C# .NET, Javascript, SQL, HTML, CSS Vue.js and Node.js.  
+  Languages and frameworks I'm familiar with are Java, C# .NET, Javascript, SQL, HTML, CSS, Vue.js and Node.js.  
